@@ -1,2 +1,2 @@
 # portfolio
-Code from various projects and classes.
+This is Aaron Simpson's portfolio repository of code from various projects and classes.
